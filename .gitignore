@@ -1,0 +1,9 @@
+.build/
+dist/
+.DS_Store
+.swiftpm/
+*.xcuserstate
+records.json
+*备份*.json
+*.dmg
+*.pkg
